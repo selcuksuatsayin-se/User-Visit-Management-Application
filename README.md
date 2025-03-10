@@ -1,4 +1,4 @@
-# Visit Manager
+# Visit Management Application
 
 A **Java Swing-based desktop application** for managing user visits to different countries.  
 Users can **add, edit, delete, and share visit records** efficiently.
